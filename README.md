@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 # 💫 About Me :
 - 🌱 I’m currently learning more about Frontend(reactjs).
 - 💬 Ask me about React or any tech-related stuff.
-- 📫 How to reach me: farhanrafid97@gmail
+- 📫 How to reach me: farhanrafid97@gmail.com
 - ⚡ Fun fact: I spend almost 12 hours listening to songs every day.
 
 
