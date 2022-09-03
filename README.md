@@ -42,13 +42,12 @@ Here are some ideas to get you started:
 
 
 ## 📟 GitHub Stats
-<p align="center">
-	<img width="38%" src="https://github-readme-stats.vercel.app/api?username=farhanrafid97" />
-		<img width="38%" src="https://github-readme-streak-stats.herokuapp.com/?user=farhanrafid97" />
+<p >
+	<img width="38%" src="https://github-readme-streak-stats.herokuapp.com/?user=farhanrafid97" />
 	
 </p>
-<p align="center">
-<img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhanrafid97" />
+<p>
+<img width="25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhanrafid97" />
 </p>
 
 
