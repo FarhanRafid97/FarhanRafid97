@@ -15,14 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center"> Hola, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
-         alt="Waving hand animated gif"
-         height="45"
-         width="45" /> I'm Farhan Rafid Syauqi</h1>
+<h1 align="center"> Hola, 👋 I'm Farhan Rafid Syauqi</h1>
 
 
 
-# 💫 About Me :
+#  About Me :
 - 🌱 I’m currently learning more about Frontend(reactjs).
 - 💬 Ask me about React or any tech-related stuff.
 - 📫 How to reach me: farhanrafid97@gmail.com
