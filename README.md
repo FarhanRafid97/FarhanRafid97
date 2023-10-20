@@ -189,7 +189,7 @@ I'm a full-stack engineer with a passion for building web applications and micro
 </p>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farhanrafid97" alt="farhanrafid97" /></a> </p>
+
 
 
 <div align="center">
